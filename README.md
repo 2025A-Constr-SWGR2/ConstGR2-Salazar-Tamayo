@@ -98,10 +98,4 @@ El proyecto incluye pruebas que verifican:
 - **Modularidad**: Cada operación está en su propio módulo NPM
 - **Reutilización**: Los módulos pueden ser utilizados en cualquier proyecto Node.js
 
-## Autor
 
-Vicente Adrian Eguez Sarzosa
-
-## Licencia
-
-ISC 
