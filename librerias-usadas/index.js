@@ -3,7 +3,7 @@ const paqueteResta = require('2025a-swgr2-vaes-resta');
 const paqueteMultiplicacion = require('2025a-swgr2-vaes-multiplicacion');
 const paqueteDivision = require('2025a-swgr2-vaes-division');
 
-// Pruebas de las operaciones según los ejemplos del enunciado
+
 console.log('=== PRUEBAS DE OPERACIONES MATEMÁTICAS ===');
 
 // Suma
